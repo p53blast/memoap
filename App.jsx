@@ -10,7 +10,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Hello bang={false}>Japan</Hello>
-      <Hello bang style = {{fontSize : 16}}>India</Hello>
+      <Hello bang style = {{fontSize : 16}}>Taiwan</Hello>
       <Text>Open up App.js to start working on your app!</Text>
       {/* eslint-disable-next-line */}
       <StatusBar style="auto" />
